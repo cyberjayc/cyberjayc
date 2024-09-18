@@ -1,7 +1,7 @@
 - 👋 Hello, I’m @cyberjayc
 - 🏫 I'm attending National University 
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Ethical Hacking
+- 🌱 I’m currently learning Python
 - 😄 Pronouns: He/Him
 - ❤️ Fun fact: I love God ❤
 
